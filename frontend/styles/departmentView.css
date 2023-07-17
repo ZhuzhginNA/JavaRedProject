@@ -1,0 +1,13 @@
+.v-menubar {
+    width: 200px; /* Ширина MenuBar */
+    height: 40px; /* Высота MenuBar */
+    border: 1px solid #ccc; /* Граница MenuBar */
+    border-radius: 5px; /* Скругленные углы MenuBar */
+}
+
+.v-button {
+    width: 200px; /* Ширина Button */
+    height: 40px; /* Высота Button */
+    border: 1px solid #ccc; /* Граница Button */
+    border-radius: 5px; /* Скругленные углы Button */
+}
